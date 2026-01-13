@@ -4,7 +4,4 @@ This repository includes code for performing evolutionary dynamics analysis and 
 
 ## Contents
 **TaxEvolution.py**:  
-  Used to performing evolutionary dynamics analysis.
-
-**Figure.py**:
-  Used to  plotting figures.
+  Used to performing evolutionary dynamics analysis and plotting figures.
